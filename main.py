@@ -47,4 +47,4 @@ def table10():
     return render_template("table10.html")
 
 if __name__ == "__main__":
-    app.run(debug=True, host="0.0.0.0", port=5555)
+    app.run(host="0.0.0.0", port=5555)
