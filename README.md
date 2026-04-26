@@ -6,7 +6,9 @@ It’s my **first Flask web application** and my transition from building simple
 
 Over the past ~3 months, I’ve been learning Python and building consistently. I started with very basic programs, simple logic, loops, and small scripts, and slowly worked my way up. Along the way, I built around **20 projects (plus extra practice scripts)**, each one getting a little harder than the last. This project is the final one in that core phase.
 
-For this one, I *intentionally* kept things simple. Not because I couldn’t make it more complex (ok maybe a little 😭), but because I wanted to actually understand ## what I was doing:
+For this one, I *intentionally* kept things simple. Not because I couldn’t make it more complex (ok maybe a little 😭), but because I wanted to actually understand 
+
+## what I was doing:
 - how Flask handles routes  
 - how Python connects to HTML  
 - how multiple pages work  
