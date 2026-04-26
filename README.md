@@ -70,3 +70,15 @@ From here, I’m moving into:
 * and eventually full-stack applications
 
 This project is basically the point where I stopped just learning Python and started actually building with it.
+
+# To future me.
+
+### This is where i officially stopped living in the terminal 😭😂
+### It's not the most complex project, but its one of the most important ones.
+### It represents consistency, discipline, and real progress over time.
+### it's a small step technically, but a big one in terms of growth. Looking forward to what comes next.
+### Future me, never forget this phase. And lets see how far this goes.
+
+## Thank you,
+
+# -Davi 🧑‍💻❤️
